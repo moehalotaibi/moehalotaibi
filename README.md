@@ -24,7 +24,7 @@ Design: Figma, Blender (sometimes), Adobe Creative Cloud
 - Design and implement responsive layouts
 
 - Turn concepts into working prototypes
-- 
+
 ---
 ## 🧠 About Me
 
