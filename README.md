@@ -7,7 +7,7 @@ Most of my work combines clean UI/UX with modern front-end engineering.
 
 Currently leveling up my stack and building projects to sharpen my skills in real-world scenarios.
 
----
+
 ## 🛠️ Tech Stack
 
 Frontend: React, TypeScript, Tailwind CSS
@@ -16,7 +16,7 @@ Animations: Motion
 
 Design: Figma, Blender (sometimes), Adobe Creative Cloud
 
----
+
 ## 📌 What I Do
 
 - Build reusable UI components
@@ -25,7 +25,7 @@ Design: Figma, Blender (sometimes), Adobe Creative Cloud
 
 - Turn concepts into working prototypes
 
----
+
 ## 🧠 About Me
 
 - UX design background → helps me build better interfaces
