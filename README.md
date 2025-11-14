@@ -1,6 +1,6 @@
 ### Hey there 👋
 
-I'm Mohammed — a Front-End Developer & UX Designer from Saudi Arabia 🇸🇦.
+I'm Mohammed — a Front-End Developer & UX Designer 
 
 I focus on building fast, accessible, and well-structured interfaces.
 Most of my work combines clean UI/UX with modern front-end engineering.
