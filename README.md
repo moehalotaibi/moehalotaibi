@@ -1,5 +1,4 @@
-## Hi there 👋
-Hey there 👋
+### Hey there 👋
 
 I'm Mohammed — a Front-End Developer & UX Designer from Saudi Arabia 🇸🇦.
 
@@ -7,6 +6,7 @@ I focus on building fast, accessible, and well-structured interfaces.
 Most of my work combines clean UI/UX with modern front-end engineering.
 
 Currently leveling up my stack and building projects to sharpen my skills in real-world scenarios.
+
 ---
 ## 🛠️ Tech Stack
 
@@ -15,6 +15,7 @@ Frontend: React, TypeScript, Tailwind CSS
 Animations: Motion
 
 Design: Figma, Blender (sometimes), Adobe Creative Cloud
+
 ---
 ## 📌 What I Do
 
@@ -23,6 +24,7 @@ Design: Figma, Blender (sometimes), Adobe Creative Cloud
 - Design and implement responsive layouts
 
 - Turn concepts into working prototypes
+- 
 ---
 ## 🧠 About Me
 
